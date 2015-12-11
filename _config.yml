@@ -1,0 +1,28 @@
+name: RyanRhoten
+favicon: null
+layout_spectrum: 0.5872798748314381
+typography_spectrum: 0.31021603336557746
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6526689215097576
+  lightness: 0.21914425771683455
+  saturation: 0.3713367134332657
+  rhythmicContrast: 0.23955340823158622
+purpose: []
