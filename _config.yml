@@ -1,7 +1,7 @@
 name: RyanRhoten
 favicon: null
-layout_spectrum: 0.5872798748314381
-typography_spectrum: 0.31021603336557746
+layout_spectrum: 0.93116
+typography_spectrum: 0.62328
 title: I help business professionals Build Your Brand
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.6526689215097576
-  lightness: 0.21914425771683455
-  saturation: 0.3713367134332657
-  rhythmicContrast: 0.23955340823158622
+    - '#178d96'
+    - '#ffffff'
+    - '#ef812f'
+    - '#8bc6ca'
+    - '#343432'
+  brandStrength: 0.625
+  lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
