@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[I help you Build Your Personal Brand]]></title>
+        <description><![CDATA[I help you Build Your Personal Brand]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 11:34:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Personal Brand Reputation Management Coach]]></title>
+            <description><![CDATA[<article><h1>Personal Brand Reputation Management Coach</h1><p>I will help you Build your Personal Brand by showing you how to Grow your Influence, Amplify your Reputation and ultimately Impact your Career.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a878639a0f6b5e7a20a13cec5a6140b561bcd076.jpg"></article>]]></description>
+            <link>http://www.ryanrhoten.com/</link>
+            <guid isPermaLink="false">d95384b4-589a-4c99-8f4a-4daba35c3d12</guid>
+            <pubDate>Wed, 27 Jan 2016 11:12:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
